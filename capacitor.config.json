@@ -1,0 +1,7 @@
+{
+  "appId": "com.meoww.cds",
+  "appName": "Discbox",
+  "webDir": "www",
+  "server": { "androidScheme": "https" },
+  "android": { "backgroundColor": "#f4f4f2" }
+}
